@@ -34,7 +34,7 @@ public class TradingCallTest extends BaseTest {
         // Fill Trading Call Details
         page.selectSingleLeg();
         page.selectSubCallType("METEN");
-        page.enterScriptName("GOLD", "GOLD29JUL26C103900");
+        page.enterScriptName("GOLD", "GOLD25SEP26C132300");
         page.enterExpiryDate("2026-07-29");
         page.enterStrikePrice("103900");
         page.selectOptionType("CE");

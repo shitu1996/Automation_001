@@ -2,7 +2,7 @@
 <suite name="AutomationSuite">
     <test name="RegressionTests">
         <classes>
-            <class name="com.iAssureit.project.tests.TradingCallTest"/>
+            <class name="com.iAssureit.project.tests.MultiLegTradingCallTest"/>
         </classes>
     </test>
 </suite>
