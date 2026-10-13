@@ -29,6 +29,7 @@ public class UsersListPage {
     @FindBy(xpath = "//input[@id='password']")
     private WebElement passwordInput;
 
+
     @FindBy(xpath = "//button[@type='submit']")
     private WebElement loginButton;
 
